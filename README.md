@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/y_afisha_cover.png" alt="Y.Afisha Marketing, Sales and Business Analysis" width="100%">
+</p>
 
 # Y.Afisha — Marketing, Sales and Business Analysis
 
